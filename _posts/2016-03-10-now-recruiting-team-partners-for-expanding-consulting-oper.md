@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Current Project: Redesigning and revamping entire curriculum and strategy for 600 office STEM-based, independent educational organization. The idea that is emerging out of this could help ANY organization, office, classroom, school or company on a global scale. Put simply, I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a huge range of activities that solve real problems. All one would have to do, when this is complete, is to identify a problem in communication, identifying skills, personality conflict, work flow or motivation and then follow the activity designed to combat this. Theory meets practicality! The \"thematic activity grid\" draws on new information and designs from such areas as holacracy, multipotentiality, multiple intelligences, gamification and curiosity-based learning.\_"
-datePublished: '2016-03-10T22:04:09.347Z'
-dateModified: '2016-03-10T21:54:14.487Z'
+datePublished: '2016-03-10T23:17:56.073Z'
+dateModified: '2016-03-10T23:17:54.984Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
+sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
-published: true
 url: now-recruiting-team-partners-for-expanding-consulting-oper/index.html
 _type: Article
 
@@ -89,8 +89,6 @@ Design and ideation: Infographics, organizational - flow charts, gamification or
 **Other:** reviews, technical, humor, presentations, manuals, press releases, product descriptions, etc. 
 
 For a comprehensive list of work product and accomplishments, follow this [link.][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04892d37-30dd-48e0-a070-e4834b017381.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96e9345e-a669-4c20-81f3-1bd1fec80ae7.png)
 
 [0]: http://www.slideshare.net/LeeChazen/infographic-resume-slide-show
 [1]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet%2FLeeChazen%2Finfographic-resume-slide-show&urlhash=VClJ&_t=tracking_anet
