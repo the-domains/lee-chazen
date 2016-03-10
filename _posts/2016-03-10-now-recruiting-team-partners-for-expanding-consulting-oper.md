@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Current Project: Redesigning and revamping entire curriculum and strategy for 600 office STEM-based, independent educational organization. The idea that is emerging out of this could help ANY organization, office, classroom, school or company on a global scale. Put simply, I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a huge range of activities that solve real problems. All one would have to do, when this is complete, is to identify a problem in communication, identifying skills, personality conflict, work flow or motivation and then follow the activity designed to combat this. Theory meets practicality! The \"thematic activity grid\" draws on new information and designs from such areas as holacracy, multipotentiality, multiple intelligences, gamification and curiosity-based learning.\_"
-datePublished: '2016-03-10T23:17:56.073Z'
-dateModified: '2016-03-10T23:17:54.984Z'
+datePublished: '2016-03-10T23:35:01.492Z'
+dateModified: '2016-03-10T23:34:10.560Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
 sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
@@ -24,10 +24,13 @@ _type: Article
 ---
 # Now Recruiting Team / Partners for Expanding Consulting Operation
 
-**Areas of work include: ****Organizational Design, Curriculum and Content Development, Project and Game-Based Learning, Education Technology, etc. **
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/97ba6a2afe8fc054b305ecf6d188cc46b8adcfe4.png)
+**Areas of work include: **Organizational Design, Curriculum and Content Development, Project and Game-Based Learning, Education Technology, etc. 
 
-**Current Project: **Redesigning and revamping entire curriculum and strategy for 600 office STEM-based, independent educational organization. The idea that is emerging out of this could help ANY organization, office, classroom, school or company on a global scale. Put simply, I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a huge range of activities that solve real problems. All one would have to do, when this is complete, is to identify a problem in communication, identifying skills, personality conflict, work flow or motivation and then follow the activity designed to combat this. Theory meets practicality! The "thematic activity grid" draws on new information and designs from such areas as holacracy, multipotentiality, multiple intelligences, gamification and curiosity-based learning. 
+**Current Project **involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale. 
+
+Put simply, I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a huge range of activities that solve real problems. All one would have to do, when this is complete, is to identify a problem in communication, application of skills, personality conflict, work flow or motivation and then follow the activity designed to help in this area. Theory meets practicality! 
+
+The "thematic activity grid" which I'm building draws on new information and designs from such areas as holacracy, multipotentiality, multiple intelligences, gamification and curiosity-based learning. 
 
 This is all part of an ecosystem of products and ideas I've been working on with others -- many falling under the theme of self-organizing systems, user-generated design, holacracy, multi-potentialism as well as game and project-based design. 
 
@@ -43,11 +46,10 @@ You can view some work samples [here: ][0]
 
 **The greatest potential for growth and creativity exists in an area called the "space between."**
 
-The _Space Between_ refers to that area between all predefined, categorized, hard objects and / or visible things. It is the connective tissue, dark matter, string or ether that makes up the majority of all things in the universe, but is least understood. It is more practically the area between all our projects and things that connects us together.  It can be bended, twisted and formed into the types of things, systems and constructs that will propel individuals and society out of our state of unfulfilled potential and towards a more egalitarian, just, thriving, productive, creative and fulfilling world. 
+The _Space Between_ refers to that area between all predefined, categorized, "hard" objects and / or visible things. It is the connective tissue, dark matter, string or ether that makes up the majority of all things in the universe, but is least understood. It is more practically the area between all our projects and things that connects us together.  It can be bended, twisted and formed into the types of things, systems and constructs that will propel individuals and society out of our state of unfulfilled potential and towards a more egalitarian, just, thriving, productive, creative and fulfilling world. 
 
 # Themes
-
-****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a79fdc3b-a5b5-40ad-8f4c-0312dec85074.png)
 
 * User-generated, Self Organizing Systems
 * Fixing broken systems and replacing them with more holacratic, emergent, self-perpetuating, positively structured models
