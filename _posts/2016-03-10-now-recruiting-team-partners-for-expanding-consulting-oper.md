@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: "Current Project: Redesigning and revamping entire curriculum and strategy for 600 office STEM-based, independent educational organization. The idea that is emerging out of this could help ANY organization, office, classroom, school or company on a global scale. Put simply, I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a huge range of activities that solve real problems. All one would have to do, when this is complete, is to identify a problem in communication, identifying skills, personality conflict, work flow or motivation and then follow the activity designed to combat this. Theory meets practicality! The \"thematic activity grid\" draws on new information and designs from such areas as holacracy, multipotentiality, multiple intelligences, gamification and curiosity-based learning.\_"
-datePublished: '2016-03-11T04:29:25.821Z'
-dateModified: '2016-03-11T04:29:25.379Z'
+description: "Current Project involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale.\_"
+datePublished: '2016-03-11T22:43:48.490Z'
+dateModified: '2016-03-11T22:36:17.195Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
 sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
@@ -49,7 +49,7 @@ You can view some work samples [here: ][0]
 The _Space Between_ refers to that area between all predefined, categorized, "hard" objects and / or visible things. It is the connective tissue, dark matter, string or ether that makes up the majority of all things in the universe, but is least understood. It is more practically the area between all our projects and things that connects us together.  It can be bended, twisted and formed into the types of things, systems and constructs that will propel individuals and society out of our state of unfulfilled potential and towards a more egalitarian, just, thriving, productive, creative and fulfilling world. 
 
 # Themes
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f801fef-53bf-4096-a2a8-afe56113551d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9baa7bdf01acfcb630949c40695bfd68ba31a20e.png)
 
 * User-generated, Self Organizing Systems
 * Fixing broken systems and replacing them with more holacratic, emergent, self-perpetuating, positively structured models
