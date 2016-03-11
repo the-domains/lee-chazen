@@ -1,4 +1,19 @@
-analytics: {}
+name: Lee Chazen
+favicon: null
+layout_spectrum: 0.600225
+typography_spectrum: 0.7515
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#fafafa'
@@ -7,12 +22,7 @@ color:
     - '#8c8c8c'
     - '#a6a8ab'
   brandStrength: 0.5
-  lightness: 0.6875
-  rhythmicContrast: 0.75
+  lightness: 0.5
   saturation: 0.5
-cta: {}
-layout_spectrum: 0.600225
-name: Lee Chazen
-opengraph: {}
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.7515
