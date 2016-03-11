@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Current Project involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale.\_"
-datePublished: '2016-03-11T22:43:48.490Z'
-dateModified: '2016-03-11T22:36:17.195Z'
+datePublished: '2016-03-11T23:13:47.201Z'
+dateModified: '2016-03-11T23:13:41.804Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
 sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
@@ -49,7 +49,6 @@ You can view some work samples [here: ][0]
 The _Space Between_ refers to that area between all predefined, categorized, "hard" objects and / or visible things. It is the connective tissue, dark matter, string or ether that makes up the majority of all things in the universe, but is least understood. It is more practically the area between all our projects and things that connects us together.  It can be bended, twisted and formed into the types of things, systems and constructs that will propel individuals and society out of our state of unfulfilled potential and towards a more egalitarian, just, thriving, productive, creative and fulfilling world. 
 
 # Themes
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9baa7bdf01acfcb630949c40695bfd68ba31a20e.png)
 
 * User-generated, Self Organizing Systems
 * Fixing broken systems and replacing them with more holacratic, emergent, self-perpetuating, positively structured models
@@ -58,6 +57,7 @@ The _Space Between_ refers to that area between all predefined, categorized, "ha
 * Capturing ideas while in action / motion and preserving them on audio and video for active use
 * Harnessing the power of the "space between" by forming connections or threads between usually disconnected things
 * Using the power of emotion from sources such as humor, music, ideas and people to propel productivity and social change
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9baa7bdf01acfcb630949c40695bfd68ba31a20e.png)
 
 # Recent Projects / Contracts
 
