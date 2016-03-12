@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Current Project involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale.\_"
-datePublished: '2016-03-12T00:45:47.670Z'
-dateModified: '2016-03-12T00:45:39.035Z'
+datePublished: '2016-03-12T00:50:34.091Z'
+dateModified: '2016-03-12T00:49:42.826Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
 sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
@@ -26,7 +26,7 @@ _type: Article
 
 Theory meets practicality! No more applying one theory or idea to solve any type of work or organizational problem. Now, there's a way to get really creative in problem solving. 
 
-I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a **huge range of activities** that solve real problems. All one would have to do when this is complete is to identify a problem in communication, application of skills, personality conflict, work flow or motivation and then follow the activity designed to help in this area. 
+I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a **huge range of activities** that solve real problems. All one would have to do when this is complete is to identify a problem in communication, application of skills, personality conflict, work flow or motivation and then follow the activity designed to help in this area. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9baa7bdf01acfcb630949c40695bfd68ba31a20e.png)
 
 The **"thematic activity grid" **which I'm building draws on new information and designs from such areas as holacracy, multipotentiality, multiple intelligences, gamification and curiosity-based learning. 
 
@@ -59,7 +59,6 @@ The _Space Between_ refers to that area between all predefined, categorized, "ha
 * Capturing ideas while in action / motion and preserving them on audio and video for active use
 * Harnessing the power of the "space between" by forming connections or threads between usually disconnected things
 * Using the power of emotion from sources such as humor, music, ideas and people to propel productivity and social change
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9baa7bdf01acfcb630949c40695bfd68ba31a20e.png)
 
 # Recent Projects / Contracts
 
