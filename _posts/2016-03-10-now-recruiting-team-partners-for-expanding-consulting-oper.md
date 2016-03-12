@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Current Project involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale.\_"
-datePublished: '2016-03-12T00:50:34.091Z'
-dateModified: '2016-03-12T00:49:42.826Z'
+datePublished: '2016-03-12T00:59:19.508Z'
+dateModified: '2016-03-12T00:58:56.286Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
 sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
@@ -53,11 +53,17 @@ The _Space Between_ refers to that area between all predefined, categorized, "ha
 # Themes
 
 * User-generated, Self Organizing Systems
+
 * Fixing broken systems and replacing them with more holacratic, emergent, self-perpetuating, positively structured models
+
 * Gamification and new localized economies
+
 * The application of knowledge and creativity to real-world, unpredictable situations
+
 * Capturing ideas while in action / motion and preserving them on audio and video for active use
+
 * Harnessing the power of the "space between" by forming connections or threads between usually disconnected things
+
 * Using the power of emotion from sources such as humor, music, ideas and people to propel productivity and social change
 
 # Recent Projects / Contracts
