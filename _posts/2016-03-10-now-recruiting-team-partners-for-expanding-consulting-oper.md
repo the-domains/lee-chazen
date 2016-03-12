@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Current Project involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale.\_"
-datePublished: '2016-03-11T23:13:47.201Z'
-dateModified: '2016-03-11T23:13:41.804Z'
+datePublished: '2016-03-12T00:45:47.670Z'
+dateModified: '2016-03-12T00:45:39.035Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
 sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
@@ -24,19 +24,21 @@ _type: Article
 ---
 # Now Recruiting Team / Partners for Expanding Consulting Operation
 
+Theory meets practicality! No more applying one theory or idea to solve any type of work or organizational problem. Now, there's a way to get really creative in problem solving. 
+
+I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a **huge range of activities** that solve real problems. All one would have to do when this is complete is to identify a problem in communication, application of skills, personality conflict, work flow or motivation and then follow the activity designed to help in this area. 
+
+The **"thematic activity grid" **which I'm building draws on new information and designs from such areas as holacracy, multipotentiality, multiple intelligences, gamification and curiosity-based learning. 
+
+This is all part of an ecosystem of products and ideas I've been working on with others -- many falling under the theme of self-organizing systems, user-generated design, holacracy, multi-potentialism as well as game and project-based design. 
+
 **Areas of work include: **Organizational Design, Curriculum and Content Development, Project and Game-Based Learning, Education Technology, etc. 
 
 **Current Project **involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale. 
 
-Put simply, I am diving deep into personal experience with music, theater, speech, communication, teaching and theoretical studies in order to produce a huge range of activities that solve real problems. All one would have to do, when this is complete, is to identify a problem in communication, application of skills, personality conflict, work flow or motivation and then follow the activity designed to help in this area. Theory meets practicality! 
-
-The "thematic activity grid" which I'm building draws on new information and designs from such areas as holacracy, multipotentiality, multiple intelligences, gamification and curiosity-based learning. 
-
-This is all part of an ecosystem of products and ideas I've been working on with others -- many falling under the theme of self-organizing systems, user-generated design, holacracy, multi-potentialism as well as game and project-based design. 
-
 # The Plan
 
-Now that I'm seeing the potential with this and other contracts, I want to build a team of intelligent, creative people who can help bring this and other exciting, creative products to a global audience. I'm currently in search of talented people either with administrative, business management, marketing, writing and / or graphic arts abilities. Pay and or equity to be awarded as work comes in. 
+Now that I'm seeing the potential with this and other contracts, I want to build a team of intelligent, creative people who can help bring this and other exciting, creative products to a global audience. I'm currently in search of either an agent or group of talented people with skills in administration, business management, marketing, writing and / or graphic arts. Pay and or equity to be awarded as work comes in. 
 
 You can view some work samples [here: ][0]
 
@@ -46,7 +48,7 @@ You can view some work samples [here: ][0]
 
 **The greatest potential for growth and creativity exists in an area called the "space between."**
 
-The _Space Between_ refers to that area between all predefined, categorized, "hard" objects and / or visible things. It is the connective tissue, dark matter, string or ether that makes up the majority of all things in the universe, but is least understood. It is more practically the area between all our projects and things that connects us together.  It can be bended, twisted and formed into the types of things, systems and constructs that will propel individuals and society out of our state of unfulfilled potential and towards a more egalitarian, just, thriving, productive, creative and fulfilling world. 
+The _Space Between_ refers to that area between all predefined, categorized, "hard" objects and / or visible things. It is the connective tissue, dark matter, string or ether that makes up the majority of all things in the universe, but is least understood. It is more practically the area between all our projects and things that connect us together.  It can be bended, twisted and formed into the types of things, systems and constructs that will propel individuals and society out of our state of unfulfilled potential and towards a more egalitarian, just, thriving, productive, creative and fulfilling world. 
 
 # Themes
 
@@ -83,10 +85,9 @@ He works across many disciplines and through different media in order to deliver
 
 # Available for contract work or employment in these areas:
 
-**Writing:** web/ social media content, brochures, flyers, product descriptions, product reviews, technical, humor, essays, research papers, proposals, general correspondence, VC presentations, business plans, manuals, press releases, advocacy (building a case for an issue, concept, product, service or person). 
+**Business:** design and ideation, e.g. infographics, organizational flow charts, gamification (micro economies) or collaborative systems for any type of organization; training curriculum; content strategy; proposal writing; advocacy (building a case for an issue, concept, product, service or person). 
 
-**Education:** lesson plans, training modules, quizzes, tests, discussion prompts, etc.
-Design and ideation: Infographics, organizational - flow charts, gamification or collaborative systems for any type of organization.  
+**Education:** curriculum and content development, e.g. lesson plans, training modules, quizzes, tests, discussion prompts, token economies, game or project-based learning design, etc. 
 
 **Other:** reviews, technical, humor, presentations, manuals, press releases, product descriptions, etc. 
 
