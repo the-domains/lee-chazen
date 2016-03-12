@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Current Project involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale.\_"
-datePublished: '2016-03-12T00:59:19.508Z'
-dateModified: '2016-03-12T00:58:56.286Z'
+datePublished: '2016-03-12T01:04:28.359Z'
+dateModified: '2016-03-12T01:04:17.538Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
 sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
@@ -97,6 +97,8 @@ He works across many disciplines and through different media in order to deliver
 **Other:** reviews, technical, humor, presentations, manuals, press releases, product descriptions, etc. 
 
 For a comprehensive list of work product and accomplishments, follow this [link.][0]
+
+# Contact: (916) 759-6231 or lchazen@gmail.com
 
 [0]: http://www.slideshare.net/LeeChazen/infographic-resume-slide-show
 [1]: http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Eslideshare%2Enet%2FLeeChazen%2Finfographic-resume-slide-show&urlhash=VClJ&_t=tracking_anet
