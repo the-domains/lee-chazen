@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Current Project involves redesigning and revamping entire curriculum and strategy for 600 office STEM-based, private educational organization. The ideas and themes that are emerging out of this could help ANY organization, office, classroom, school or company on a global scale.\_"
-datePublished: '2016-03-12T01:04:28.359Z'
-dateModified: '2016-03-12T01:04:17.538Z'
+datePublished: '2016-03-13T02:12:06.077Z'
+dateModified: '2016-03-12T01:06:22.924Z'
 title: Now Recruiting Team / Partners for Expanding Consulting Operation
 author: []
 sourcePath: _posts/2016-03-10-now-recruiting-team-partners-for-expanding-consulting-oper.md
